@@ -17,6 +17,8 @@ If you want to read change logs before `2.0.0`, please visit [GitHub](https://gi
 
 ---
 
+- Fix circular reference with infinite children.
+
 ## 2.13.4
 
 `2017-09-29`
